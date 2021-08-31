@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Appliances",
+    "key": "APPLICANCES"
+  },
+  {
+    "name": "Automotive",
+    "key": "AUTOMOTIVE"
+  },
+  {
+    "name": "Electrical",
+    "key": "ELECTRICAL"
+  },
+  {
+    "name": "Furniture",
+    "key": "FURNITURE"
+  },
+  {
+    "name": "Tools",
+    "key": "TOOLS"
+  },
+  {
+    "name": "Hardware",
+    "key": "HARDWARE"
+  },
+  {
+    "name": "Photography",
+    "key": "PHOTOGRAPHY"
+  },
+  {
+    "name": "Musical Instruments",
+    "key": "MUSICAL_INSTRUMENTS"
+  },
+  {
+    "name": "Gardening",
+    "key": "GARDENING"
+  },
+  {
+    "name": "Sports Equipment",
+    "key": "SPORTS_EQUIPMENT"
+  }
+]
